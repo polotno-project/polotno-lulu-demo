@@ -1,0 +1,13 @@
+{
+  "name": "polotno-lulu-demo-server",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Backend for the Polotno + Lulu demo: holds the Lulu credentials and calls its API",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node server.mjs"
+  }
+}
